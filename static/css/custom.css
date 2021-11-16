@@ -1,1 +1,15 @@
-.content .block-properties {display: none};
+.references {
+  display: none;
+}
+.content .block-properties {
+	display: none;
+}
+.cp__header .fade-link.toggle {
+	display: none;
+} 
+.cp__header .cp__header-left-menu.button {
+	display: none;
+}
+*/.cp__header .r.flex .relative .button {
+	display: none;
+}*/ 
